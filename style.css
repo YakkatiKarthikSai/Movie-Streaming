@@ -538,7 +538,7 @@ header section:hover .bi-chevron-left {
 }
 
 @media screen and (max-width: 788px) {
-    header video{
+    header video {
         position: absolute;
         width: 520%;
         height: 180%;
